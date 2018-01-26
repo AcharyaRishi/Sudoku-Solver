@@ -1,0 +1,42 @@
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Form1.resources
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Resources.resources
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.vbproj.GenerateResource.Cache
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.xml
+C:\Users\Rish\Documents\Coding and Building\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.xml
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Form1.resources
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Resources.resources
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.vbproj.GenerateResource.Cache
+C:\Users\Rish\Documents\Coding\VB\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+C:\Users\Rish\Documents\Coding\VB\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.xml
+C:\Users\Rish\Documents\Coding\VB\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.xml
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Form1.resources
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Resources.resources
+C:\Users\Rish\Documents\Coding\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.vbproj.GenerateResource.Cache
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.vbprojResolveAssemblyReference.cache
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Form1.resources
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Resources.resources
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.vbproj.GenerateResource.Cache
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.vbproj.CoreCompileInputs.cache
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.xml
+C:\Users\Rishi Acharya\Documents\Computers\VB\Sudoku\Currently Working\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
